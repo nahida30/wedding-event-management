@@ -1,8 +1,18 @@
-# React + Vite
+# Wedding Event Management
+Live link: https://wedding-event-management-9c904.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A wedding management website is a comprehensive solution designed to simplify and enhance every aspect of wedding planning, from organizing guest lists to managing budgets and coordinating events. 
 
-Currently, two official plugins are available:
+- User-Friendly Interface 
+- Guest Management
+- Budget Tracking
+- Event Timeline
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technology used:
+- React route
+- Tailwind css
+- Firebase
+- DaisyUI
+
+  Here special feature is an user can get all the details about what package they want to pick. 
+
