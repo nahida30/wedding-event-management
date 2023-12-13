@@ -1,0 +1,59 @@
+[
+    {
+      "id": "1",
+      "name": "Theme Wedding",
+      "image": "https://i.ibb.co/w4zwGMH/image7.jpg",
+      "price": 5000,
+      "title": "Transform your special day into a fairy tale with our captivating theme wedding packages. Choose from a variety of enchanting themes to create lasting memories.",
+      "short_description": "Each wedding has a unique tale to share. It is the tale of two people who fall in love and stay together forever. Stories about two families getting together, with many different personalities, in a sort of celebration. We have a strong desire to make that story come to life. We want to create a wedding that is distinctive and a reflection of your personality by acting as storytellers on your behalf. When it comes to helping our clients create the ideal event, we sincerely want to offer them the best expertise, counsel, and support. A wedding theme unifies your celebration, gives it a more opulent appearance, and breathes new life into the celebrations. Themes can be chosen based on your background and culture, your life story, your guiding principles, and your aesthetic and beauty sensibilities. Together, you and our team of wedding designers will come up with a special theme for each occasion. Themes can be expressed in both entertainment and design and décor. Give your visitors a memento of the event. Something by which people will recall your wedding. Our team of wedding planners will compile suggestions and references so you may select the options that best fit you and your particular needs. For the bride, a wedding is supposed to be a magical occasion and the day she has been looking forward to since she was a little girl. She may have already decided on the style of her wedding, including the flowers, the dress, the menu, and the entertainment. Because of this, we make sure to assist our brides in making their ideal wedding a reality without any worry or aggravation. ",
+
+      "items": ["Venue Rental,", "Decorations and Theme Elements,", "Attire,", "Invitations and Stationery,","Catering,","Entertainment,","Photography and Videography,","Transportation,","Wedding Planner/Coordinator"]
+    },
+    {
+      "id": "2",
+      "name": "Decoration",
+      "image": "https://i.ibb.co/hf0F55Z/image2.jpg",
+      "price": 4500,
+      "title": "Transform your event into an enchanting and visually captivating experience with our exceptional decoration services.",
+      "short_description": "Wedding decor, that is our main forte! More over from readymade, cookie cutter weddings. We believe in customizing our clients’ wedding. We strongly believe that each client of ours is unique and has a story to tell through the way their wedding looks. We have an easy to understand and effective process of décor designing and execution. We thoroughly understand our client’s requirements and budget, and then focus on creating something that has never been seen before with many wow factors. We understand that every client’s requirements are unique, which is why we focus on what you want and what your dream event is like and we ensure that we meet those requirements and specifications all the time. We take pride in what we do and décor is something that is very close to our heart. We have a strong team of design experts who will make your dream wedding a reality. Whether your wedding budget is big or small, we can assure you a design you and your guests would remember forever. We have a professional approach you can trust as we are experienced in delivering décor for all types of events and sizes. We will be able to give you a complete picture of how each function would look. Through reference images, drawings and 3D designing, our team will make sure you are comfortable with the look of each event. Right from your sangeet stage, lounges, seating, table treatments, chair decor, entrance pathways, florals, lighting effects, ambience props etc.- everything would be custom designed and finalized before the execution day.",
+      "items": ["Menu Selection,", "Dietary Restrictions,", "Catering Style (Buffet, Plated, Family-Style, etc.),", "Tasting Session,","Food Presentation,","Beverage Service,","Service Staff,","Budget Allocation,","Wedding Planner/Coordinator"]
+    },
+    {
+      "id": "3",
+      "name": "Vanue Search",
+      "image": "https://i.ibb.co/pf7fjVp/image3.jpg",
+      "price": 5500,
+      "title": "Discover the perfect setting for your special moments with Venue Search. We make finding the ideal venue for weddings, parties, conferences, and more effortless. ",
+      "short_description": "If you secure a good venue and a good deal with the hotel you choose to get married at, half the work is done. Finding the perfect venue can be overwhelming and time consuming. We would love to save our client’s time, effort and hassle and source exceptional venues on your behalf. Whether in Sylhet or Chottogram, outside Dhaka or inside Dhaka we have an exceptional complimentary venue search team that will work according to your requirements and budget. We will help you find the venue that you are 100% satisfied with.",
+      "items": ["Budget,", "Location,", "Capacity,", "Availability,","Reviews,","Parking,","Vendor Policies,","Noise Restrictions,","Décor Options"]
+    },
+    {
+      "id": "4",
+      "name": "Catering",
+      "image": "https://i.ibb.co/5GFZY3T/image4.jpg",
+      "price": 4800,
+      "title": "Our expert chefs create menus to match your tastes, whether you prefer fancy meals or comfort food. We're here to make your events extra special with our great food!",
+      "short_description": "As one of the best wedding planning companies in Mumbai, we have worked with numerous top venues over the years. We believe that no matter how beautiful the venue is, if it doesn’t serve good food- the party will go flat. Food and drinks are very important and integral parts of our Indian weddings and the venues we provide would be able to cater to high expectations. Serving to different communities, we know the individual preferences of people belonging to a certain caste and community.If the hotel permits an outside caterer, we would be happy to help you find the perfect caterer.Other areas our services cover include sourcing food structures, handling the menu, wedding cake design, menu design & print etc.",
+      "items": ["Menu Selection,", "Dietary Restrictions,", "Catering Style (Buffet, Plated, Family-Style, etc.),", "Tasting Session,","Food Presentation,","Beverage Service,","Service Staff,","Budget Allocation,","Wedding Planner/Coordinator"]
+    },
+    {
+      "id": "5",
+      "name": "Vendor Managment",
+      "image": "https://i.ibb.co/D1FLkSb/image5.jpg",
+      "price": 5200,
+      "title": " Simplify your wedding planning with our comprehensive vendor management services. We take care of every detail for perfect venue and entertainment.",
+      "short_description": "Bridely offers a full wedding planning solution with a special emphasis on managing and choosing vendors. We will carry out your wishes if you let us know what they are. In addition to having a long list of excellent musicians, dancers, and artists organized into different price ranges, we have experience working with most of the artists on the list. To ensure that the performance is of the highest caliber, we will recommend dependable performers with whom we have previously collaborated on numerous occasions. We are aware that there are no do-overs and that each and every time, we must give it everything we have. All of our vendors are well-known to us and have undergone performance evaluations. This will simplify and streamline the process of bringing them on board. We will take into account your budget, theme, preferences, and attendees while making artist recommendations.",
+      "items": ["Identify Required Vendors,", "Research and Select Potential Vendors,", "Confirm Vendor Availability for the Wedding Date,", "Finalize Vendor Booking and Payments,","Review Vendor Responsibilities and Expectations,","Ensure Vendor Compliance with Venue Rules,","Vendor Policies,","Noise Restrictions,","Décor Options"]
+    },
+    {
+      "id": "6",
+      "name": "Logistics management",
+      "image": "https://i.ibb.co/Wc9w0JP/image6.jpg",
+      "price": 5100,
+      "title": "Our expert team ensures seamless coordination of everything from venue setup to transportation, so you can focus on celebrating your special day stress-free.",
+      "short_description": "We understand that a wedding is a uniquely personal event, representing the style, lifestyle and personality of the individuals involved – and for most, it will be the biggest party that they have ever hosted. We will be with you every step of the way, ready to wow and spoil your guests whilst ensuring that you relax and enjoy a completely memorable day with your friends and family. Our logistics management service is a part of our complete wedding planning service and is aimed to fulfil each couple’s individual requirements. However your guests choose to commute, by train or flight or car- we will assist in their easy travel management. We will guide you with room allocations, travel planning and bulk bookings. We help to save costs on group travels as well. Your guests will experience our seamless logistics service as soon as the arrive at the airport/station/venue. We will escort them to the wedding and have them sent home in the same efficient manner.",
+      "items": ["Venue selection and booking,", 
+      "Vendor contracts and coordination,", "Timelines and schedules,", "Finalize Vendor Booking and Payments,","Security and emergency plans,","Guest seating and arrangements,","Vendor Policies,","Noise Restrictions,","Décor Options"]
+    }
+  ]
+  
