@@ -9,7 +9,7 @@ A wedding management website is a comprehensive solution designed to simplify an
 - Event Timeline
 
 Technology used:
-- React route
+- React Js
 - Tailwind css
 - Firebase
 - DaisyUI
